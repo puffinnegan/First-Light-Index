@@ -1,3 +1,3 @@
 # First-Light-Index
 
-Click `"raw"` in the top right corner of `"Template"` to copy the entire text. :)
+Click `"copy raw context"` in the top right corner of `"Template"` to copy the entire text. :)
